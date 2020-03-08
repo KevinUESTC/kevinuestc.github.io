@@ -3,26 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://KevinZ.github.io/post/myfirstblog/</loc>
+    <loc>https://example.org/tags/algorithm/111/</loc>
+    <lastmod>2020-03-08T23:08:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/</loc>
+    <lastmod>2020-03-08T23:08:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/post/test/myfirstblog/</loc>
     <lastmod>2020-03-08T17:57:46+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://KevinZ.github.io/post/</loc>
+    <loc>https://example.org/post/</loc>
     <lastmod>2020-03-08T17:57:46+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://KevinZ.github.io/</loc>
-    <lastmod>2020-03-08T17:57:46+08:00</lastmod>
+    <loc>https://example.org/</loc>
+    <lastmod>2018-12-29T20:24:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://KevinZ.github.io/categories/</loc>
+    <loc>https://example.org/about/</loc>
+    <lastmod>2018-12-29T20:24:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://KevinZ.github.io/tags/</loc>
+    <loc>https://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/</loc>
   </url>
   
 </urlset>
